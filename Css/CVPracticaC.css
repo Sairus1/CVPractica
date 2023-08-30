@@ -1,0 +1,24 @@
+section{
+    width: 300px;
+    }
+
+h1{
+    font-weight: bold;
+    color:indianred;
+    margin:10px;
+    border:10px solid red;
+    padding:10px color lightblue;
+    background-color: lightblue;
+}
+/** comentario 
+*/
+#miParrafo{
+    padding: 30px;
+    font-style: oblique ;
+    color:blueviolet
+}
+.estaEsMiClase{
+    font-size: xx-large;
+    color:brown;
+
+}
