@@ -1,7 +1,11 @@
+*{box-sizing: border-box;
+
+}
 section{
     width: 300px;
     }
 
+    
 h1{
     font-weight: bold;
     color:indianred;
@@ -19,7 +23,8 @@ utilizarse una sola vez
     color:blueviolet
 }
 .estaEsMiClase{
-    font: micro-gramma;
+    font-family: microgramma,sans-serif;
+    text-transform: uppercase;
     font-size: xx-large;
     color:brown;
 
