@@ -10,7 +10,8 @@ h1{
     padding:10px color lightblue;
     background-color: lightblue;
 }
-/** comentario 1
+/** el siguiente es un estilo con id y solo puede 
+utilizarse una sola vez
 */
 #miParrafo{
     padding: 30px;
@@ -18,6 +19,7 @@ h1{
     color:blueviolet
 }
 .estaEsMiClase{
+    font: micro-gramma;
     font-size: xx-large;
     color:brown;
 
